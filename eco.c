@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
     if (argc != 4) {
-        fprintf(stderr, "Uso: %s TESTO INTERO REALE\n", argv[0]);
+        fprintf(stderr, "Uso: %s ERRORE, INSERIRE 4 ARGOMENTI\n", argv[0]);
         return 2;
     }
 
@@ -12,6 +12,8 @@ int main(int argc, char *argv[])
 
     /* TODO: converti gli argomenti in tipi appropriati. Usa atoi o atof
     * prendi ispirazione da:
+
+
     * https://en.cppreference.com/c/string/byte/atoi e 
     * https://en.cppreference.com/c/string/byte/atof */
 
