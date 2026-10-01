@@ -1,5 +1,5 @@
 # Osservazioni — Esercitazione 0
-
+una frase sulla verifica del commit appena svolta.
 Gruppo:
 
 Componenti (nome, cognome e username GitHub di entrambi):
